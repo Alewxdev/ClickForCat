@@ -3,5 +3,4 @@ de imagens dinâmicas. O objetivo principal deste projeto foi testar a utilizaç
 
 
 
-  ![image](https://github.com/user-attachments/assets/cca20722-fe6c-40cb-a794-9e081104a4b6)
-
+   ![giphy (1)](https://github.com/user-attachments/assets/e03df75f-ac6f-4555-9e69-bff8b043b4d0)
